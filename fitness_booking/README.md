@@ -1,4 +1,4 @@
-# 🏋️‍♀️ Fitness Studio Booking API
+#  Fitness Studio Booking API
 
 A Python FastAPI application to manage fitness class schedules and bookings. The API allows users to view available classes, book a class, and view bookings by email — with support for timezone adjustments.
 
